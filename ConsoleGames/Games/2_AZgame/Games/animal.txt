@@ -1,0 +1,231 @@
+aardvark
+animal joke
+ant
+anteater
+aye aye
+antelope
+alligator
+albatross
+akita
+bear
+bat
+bird
+bee
+baboon
+badger
+bandicoot
+barb
+barn owl
+bat
+beagle
+beaver
+beetle
+bison
+blue whale
+bobcat
+bongo
+buffalo
+butterfly
+bumble bee
+bullfrog
+cat
+camel
+caterpillar
+catfish
+creeper
+centipede
+chameleon
+cheetah
+chicken
+chimp
+chimpanzee
+chinook
+cockroach
+cow
+crab
+coyote
+crocodile
+cuscus
+dog
+deer
+dingo
+dodo
+do do
+dolphin
+donkey
+drangonfly
+duck
+elephant
+eagle
+eel
+electric eel
+emu
+fox
+falcon
+ferret
+fish
+flamingo
+fly
+flying squirrel
+faun
+frog
+giraffe
+gecko
+gorrila
+gorrilla
+gorilla
+goat
+gibbon
+gnat
+goose
+grasshopper
+great white shark
+grizzly bear
+guinea pig
+guppy
+hamster
+hampster
+hare
+hedgehog
+hermit crab
+heron
+hippo
+hippopotamus
+horse
+human
+hummingbird
+hyena
+hound
+iguana
+ibis
+insect
+jellyfish
+jaguar
+javanese
+kangaroo
+killer whale
+kiwi
+koala
+komodo dragon
+kingfisher
+kudu
+lion
+ladybug
+lemming
+lemur
+liger
+lionfish
+lizard
+llama
+lama
+lobstermlynx
+leopard
+monkey
+macaw
+magpie
+macaroni penguin
+maltese
+manta ray
+mayfly
+meerkat
+millipede
+mole
+molly
+mongoose
+mongrel
+moose
+moth
+mouse
+mule
+newt
+numbat
+night owl
+octopus
+ocelot
+opossum
+orang-utan
+orangutan
+ostrich
+otter
+ox
+oyster
+parrot
+panther
+peacock
+penguin
+persian
+pig
+pika
+pike
+piranha
+platypus
+pointer
+poison dart frog
+polar bear
+porcupine
+possum
+prawn
+puffer fish
+puffin
+puma
+quail
+quetzal
+quokka
+quoll
+rabbit
+raccoon
+rat
+rattlesnake
+reindeer
+rhinoceros
+rhino
+robin
+sheep
+sabre-toothed tiger
+salamander
+scorpian
+slug
+sea urchin
+seahorse
+seal
+shih tzu
+shrimp
+siamese
+skunk
+sloth
+snail
+serpent
+snake
+sparrow
+sponge
+squid
+squirrel
+starfish
+stingray
+starfish
+stick insect
+swan
+tiger
+tortise
+turtle
+turt
+toucan
+turkey
+vulture
+vampire bat
+whale
+walrus
+wallaby
+warthog
+wasp
+weasel
+wolf
+wolfa
+wombat
+woodlouse
+woodpecker
+yak
+zebra
+zorse
+zonkey
+zebu

@@ -1,0 +1,280 @@
+accountant
+assassin
+astronaut
+astronaught
+astronomer
+army worker
+armyman
+army man
+astrologist
+assistant
+air traffic controller
+advocate
+artist
+architect
+acrobat
+attorney
+actor
+barrister
+better
+builder
+baker
+banker
+babysitter
+bagger
+bus driver
+bartender
+cartographer
+carpenter
+cop
+chef
+camera operator
+cameraman
+criminal
+camera man
+cosmonaut
+cosmonaught
+community worker
+computer
+consultant
+curator
+creator
+ceo
+c.e.o
+cfo
+c.f.o
+caller
+car inspector
+car insurance
+cashier
+cementer
+chemist
+child care
+child-care
+cleaner
+clerk
+dancer
+discoverer
+dealer
+drug dealer
+detective
+defense attorney
+defense lawyer
+decorator
+dentist
+docter
+doctor
+dev
+developer
+director
+driver
+duster
+defence
+editor
+entertainer
+electrician
+embosser
+employee
+employer
+examiner
+examinor
+excavator
+explosive operator
+farmer
+feeder
+farmworker
+filer
+finer
+fireman
+fisherman
+framer
+garbage man
+gardener
+gambler
+greeter
+garbageman
+gilder
+grinder
+grader
+guard
+gum puller
+gunner
+gynecologist
+hairdresser
+healthcare assistant
+hacker
+hitman
+hair dresser
+hammer operator
+handler
+harvest worker
+hatter
+heater
+hugger
+historian
+honey extractor
+hotel clerk
+hot-line worker
+house cleaner
+hypnotherapist
+illustrator
+inventor
+influencer
+icer
+ice cream man
+inker
+inspector
+instructor
+invester
+investigator
+IT support
+janitor
+judge
+jeweler
+jogger
+jigger
+journalist
+key cutter
+kelp cutter
+kettle tender
+killer
+knife operator
+kosher inspector
+lawyer
+lifeguard
+laboratory assistant
+laborer
+lad
+lamber
+lumberjack
+lumber jack
+lumber
+librarian
+license inspector
+loader
+locksmith
+lobbyist
+mailman
+mailboy
+mechanic
+mascot
+mailer
+magician
+magazine supervisor
+manager
+marine biologist
+mobile operator
+marshal artist
+marinist
+mathematician
+mattress tester
+mender
+milker
+miner
+mosaicist
+narrator
+noob
+nailer
+neurologist
+nuclear engineer
+nurse
+operator
+observer
+office worker
+officer
+oiler
+opener
+optician
+orthodontist
+oxidizer
+prosecutor
+professor
+police man
+policeman
+packer
+painter
+paint-roller
+pairer
+paralegal
+paramedic
+pastry chef
+photographer
+plumber
+poet
+police officer
+quarry worker
+queen
+quarry
+quality control
+quilter
+rubbish man
+raker
+recorder
+recovery
+recovery operator
+roofer
+router
+streamer
+spokesperson
+self-employed
+support
+security guard
+security
+seller
+student
+supervisor
+safety
+safety manager
+sales clerk
+salvager
+sampler
+sausage inspector
+scientist
+space scientist
+singer
+teacher
+taste-tester
+tester
+taster
+therapist
+taxi driver
+technician
+tabber
+tanker
+test driver
+trader
+traffic warden
+trimmer
+truck driver
+typer
+uber driver
+unemployed
+utility worker
+vet
+veterin
+voltage tester
+vaccuum tester
+valve grinder
+waiter
+warden
+warper
+washer
+waxer
+weighter
+wire cutter
+wirecutter
+wire-cutter
+wildlife advocate
+woodworker
+writer
+x-ray inspector
+x-ray-equipment tester
+x-ray demonstrator
+x-rayer
+youtuber
+yard worker
+yeast pusher
+zookeeper
+zoo keeper
+zoo-keeper
+zoologist

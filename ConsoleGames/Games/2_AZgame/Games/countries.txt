@@ -1,0 +1,269 @@
+australia
+afghanistan
+albania
+algeria
+andorra
+angola
+antigua
+argentina
+armenia
+austria
+arabia
+austrian empire
+azerbaijan
+america
+brazil
+baden
+barbuda
+bahamas
+bahrain
+bangladesh
+barbados
+bavaria
+belarus
+belgium
+belize
+benin
+bolivia
+bosnia
+botswana
+brunei
+brunswick
+bulgaria
+burkina faso
+burma
+burundi
+china
+cabo verde
+cambodia
+cameroon
+canada
+cayman
+cayman islands
+central african republic
+central american federation
+chad
+chile
+colombia
+comoros
+congo
+congo free state
+costa rica
+cote d’ivoire
+croatia
+cuba
+cyprus
+czechia
+czechoslovakia
+denmark
+democratic republic of the congo
+djibouti
+dominica
+dominican republic
+duchy of parma
+egypt
+east germany
+ecuador
+el salvador
+equatorial guinea
+eritrea
+estonia
+eswatini
+england
+ethiopia
+france
+federal government of germany
+fiji
+finland
+germany
+gabon
+gambia
+georgia
+german union
+german confederation
+grenadines
+ghana
+grand duchy of tuscany
+greece
+german democratic republic
+grenada
+guatemala
+guinea
+guinea-bissau
+genoa
+guyana
+hungary
+haiti
+hanover
+hanseatic republics
+hanseatic
+hawaii
+hesse
+holy see
+honduras
+herzegovina
+ireland
+ivory coast
+iceland
+india
+indonesia
+iran
+iraq
+israel
+italy
+japan
+jamaica
+jordan
+korea
+kazakhstan
+kenya
+kingdom of serbia
+kiribati
+kosovo
+kitts
+kuwait
+kyrgyzstan
+lithuania
+laos
+latvia
+lebanon
+lüneburg
+luneburg
+lucia
+lesotho
+lew chew
+loochoo
+liberia
+lavita
+laivita
+libya
+liechtenstein
+luxembourg
+mexico
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+marshall
+mauritania
+mauritius
+mecklenburg-schwerin
+mecklenburg-strelitz
+mecklenburg
+macedonia
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+netherlands
+namibia
+nassau
+nauru
+nepal
+nevis
+new zealand
+nicaragua
+niger
+nigeria
+north german confederation
+north german union
+north macedonia
+north korea
+norway
+oman
+oldenburg
+orange free state
+orange
+poland
+pakistan
+palau
+panama
+principe
+papal states
+papua new guinea
+paraguay
+peru
+philippines
+piedmont-sardinia
+portugal
+parma
+qatar
+russia
+republic of genoa
+republic of korea
+republic of the congo
+romania
+rwanda
+spain
+scotland
+serbia
+saint kitts and nevis
+saint kitts
+saint nevis
+saint lucia
+saint vincent and the grenadines
+saint vincent
+samoa
+san marino
+sao tome principe
+saudi arabia
+schaumburg-lippe
+sicilies
+senegal
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands, the
+somalia
+south africa
+south korea
+south sudan
+sri lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+thailand
+tajikistan
+tanzania
+texas
+timor-leste
+togo
+tonga
+tuscany
+trinidad
+tobago
+tunisia
+turkey
+turkmenistan
+tuvalu
+two sicilies
+united kingdom
+uganda
+ukraine
+union of soviet socialist republics
+united arab emirates
+uk
+u.k
+usa
+u.s.a
+united states america
+united states of america
+uruguay
+uzbekistan
+vietnam
+vanuatu
+venezuela
+yemen
+yugoslavia
+zimbabwe
+zambia

@@ -1,0 +1,59 @@
+[Difficulty=35]
+action script
+ada
+algol
+asm
+assembly
+assembler
+apple script
+auto hotkey
+basic
+bash
+batch
+c
+c++
+cpp
+c plus plus
+c#
+c sharp
+cobol
+CoffeeScript
+fortran
+go
+go!
+gdscript
+gd
+Game Maker Language
+haskell
+holyc
+html
+java
+javascript
+kotlin
+kodu
+lua
+lisp
+legoscript
+linq
+matlab
+machine code
+machine
+pascal
+pearl
+php
+pizza
+python
+rust
+ruby
+scratch
+sql
+squeak
+smalltalk
+swift
+typescript
+turing
+visual basic
+vb
+visual c#
+visual fortran
+vim script

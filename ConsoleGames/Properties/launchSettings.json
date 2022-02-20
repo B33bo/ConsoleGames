@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleGames": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
